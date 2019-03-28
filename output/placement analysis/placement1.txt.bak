@@ -1,0 +1,56 @@
+Popular Session in CAT-2 : B835,B815,B10,B352,B167,B83
+--------------------------------------------------------
+
+fileBlock : F8 B10 Datanode : 68.0 Support : 0.7333333333333333
+fileBlock : F8 B10 Datanode : 60.0 Support : 0.7088888888888889
+fileBlock : F8 B10 Datanode : 57.0 Support : 0.683076923076923
+fileBlock : F8 B10 Datanode : 78.0 Support : 0.65
+fileBlock : F8 B10 Datanode : 13.0 Support : 0.6342857142857142
+
+fileBlock : F8 B83 Datanode : 68.0 Support : 0.7333333333333333
+fileBlock : F8 B83 Datanode : 60.0 Support : 0.7077777777777777
+fileBlock : F8 B83 Datanode : 57.0 Support : 0.683076923076923
+fileBlock : F8 B83 Datanode : 78.0 Support : 0.65
+fileBlock : F8 B83 Datanode : 13.0 Support : 0.6314285714285715
+
+fileBlock : F8 B167 Datanode : 68.0 Support : 0.7333333333333333
+fileBlock : F8 B167 Datanode : 60.0 Support : 0.7077777777777777
+fileBlock : F8 B167 Datanode : 57.0 Support : 0.683076923076923
+fileBlock : F8 B167 Datanode : 78.0 Support : 0.65
+fileBlock : F8 B167 Datanode : 13.0 Support : 0.6314285714285715
+
+fileBlock : F8 B352 Datanode : 68.0 Support : 0.7333333333333333
+fileBlock : F8 B352 Datanode : 60.0 Support : 0.7077777777777777
+fileBlock : F8 B352 Datanode : 57.0 Support : 0.683076923076923
+fileBlock : F8 B352 Datanode : 78.0 Support : 0.65
+fileBlock : F8 B352 Datanode : 13.0 Support : 0.6342857142857142
+
+fileBlock : F8 B377 Datanode : 68.0 Support : 0.02666666666666667
+
+fileBlock : F8 B462 Datanode : 68.0 Support : 0.02666666666666667
+
+fileBlock : F8 B507 Datanode : 68.0 Support : 0.02666666666666667
+
+fileBlock : F8 B543 Datanode : 68.0 Support : 0.02666666666666667
+
+fileBlock : F8 B606 Datanode : 68.0 Support : 0.02666666666666667
+
+fileBlock : F8 B683 Datanode : 68.0 Support : 0.02666666666666667
+
+fileBlock : F8 B769 Datanode : 68.0 Support : 0.02666666666666667
+
+fileBlock : F8 B791 Datanode : 68.0 Support : 0.02666666666666667
+
+fileBlock : F8 B815 Datanode : 68.0 Support : 0.7333333333333333
+fileBlock : F8 B815 Datanode : 60.0 Support : 0.7088888888888889
+fileBlock : F8 B815 Datanode : 57.0 Support : 0.683076923076923
+fileBlock : F8 B815 Datanode : 78.0 Support : 0.65
+fileBlock : F8 B815 Datanode : 13.0 Support : 0.6342857142857142
+
+fileBlock : F8 B835 Datanode : 68.0 Support : 0.7333333333333333
+fileBlock : F8 B835 Datanode : 60.0 Support : 0.7088888888888889
+fileBlock : F8 B835 Datanode : 57.0 Support : 0.6846153846153846
+fileBlock : F8 B835 Datanode : 78.0 Support : 0.65
+fileBlock : F8 B835 Datanode : 13.0 Support : 0.6342857142857142
+
+fileBlock : F8 B921 Datanode : 68.0 Support : 0.02666666666666667
